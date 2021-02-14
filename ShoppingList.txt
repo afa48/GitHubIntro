@@ -4,3 +4,5 @@ Apples
 Oranges
 Carrots
 Strawberries
+lemons 
+blueberries
