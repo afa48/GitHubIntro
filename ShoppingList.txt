@@ -4,4 +4,7 @@ Apples
 Oranges
 Carrots
 Strawberries
+lemons 
+blueberries
 bananas
+
